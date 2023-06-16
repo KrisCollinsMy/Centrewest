@@ -1,6 +1,6 @@
 ## Centrewest
 
-A multi-page application for a chemical supplies company in Malaysia, built with HTML, CSS and javascript ES5. [Live Demo](https://www.centrewest.com.my/)
+A multi-page application for a chemical supplies company in Malaysia, built with HTML, CSS and javascript ES6. [Live Demo](https://www.centrewest.com.my/)
 
 ## Screenshots
 
@@ -20,7 +20,7 @@ A multi-page application for a chemical supplies company in Malaysia, built with
 ## Features
 
 - Responsive
-- Contact form with email
+- Contact form with PHPMailer
 
 ## License
 
